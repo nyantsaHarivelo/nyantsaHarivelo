@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zana Ny Antsa
 - 👀 I’m interested in Game Programming
- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Symfony
 <!----- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me nyantsa@gmail.com
 <!---- 😄 Pronouns: ...
