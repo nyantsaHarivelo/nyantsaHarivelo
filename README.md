@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Zana Ny Antsa
+<h1 align="center"> 👋 Hi, I’m Zana Ny Antsa </h1>
+<!----- 💞️ I’m looking to collaborate on ...--->
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning Symfony
-
-<!----- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me nyantsaharivelo@gmail.com
-
+<h3> Languages and tools </h3>
+- HTML / CSS / SASS / JS
+- ✨ C++ / PYTHON / JAVA / JS 
 <!---- 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
 
